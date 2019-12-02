@@ -20,5 +20,6 @@ public class Student {
     private String lastName;
     private String gender;
     private LocalDate dateOfBirth;
+    private String studentMSport;
 }
 
